@@ -1,1 +1,1 @@
-# Demonstration_of_various_Machine_learning_Models
+# Demonstration of various Machine learning Models
